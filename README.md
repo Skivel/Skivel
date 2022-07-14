@@ -3,7 +3,5 @@
 - 🌱 I’m currently learning some new for my self
 - 📫 How to reach me denisbuhrov@gmail.com
 
-<!---
-Skivel/Skivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![alt text](https://github.com/Skivel/matplotlib-MySkills/blob/master/graph.png)
+
